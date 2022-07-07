@@ -25,7 +25,7 @@ $ php artisan migrate
 
 docker立ち上げ
 ```
-$ ./vendor/bin/sail up
+$ ./vendor/bin/sail up -d
 ```
 
 Laravelコンテナ
